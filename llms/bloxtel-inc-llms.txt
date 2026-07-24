@@ -1,0 +1,21 @@
+# Bloxtel, Inc.
+
+> Bloxtel builds a decentralized private 5G platform that lets enterprises stand up standalone 5G networks in hours. Its all-in-one 5G Access Point runs Open6GC (Bloxtel's decentralized network core) and pairs with tokenized dSIM electronic-SIM technology and a Web3 Operator dApp for network configuration, subscription management, and AI-powered predictive maintenance.
+
+Note: As of this writing Bloxtel publishes a marketing and lead-generation site only — there is no public developer portal, API reference, OpenAPI, or SDK. This llms.txt is generated from the API Evangelist catalog and the public website; it will be upgraded when a developer surface is published.
+
+## Company
+- [Bloxtel home](https://bloxtel.com): Private 5G standalone platform featuring dSIM technology
+- [Get Started](https://bloxtel.com/getstarted.html): Contact/lead form to deploy a private 5G network
+- [Pricing](https://bloxtel.com/#pricing): Per-access-point monthly plans (Basic/Standard/Advanced/Custom)
+- [Support](https://bloxtel.com/support.html): 24/7 support
+- [Privacy Policy](https://bloxtel.com/privacy.html)
+- [Company](https://bloxtel.com/company.html): Mission, team, news, and jobs
+
+## Solutions
+- [Indoor Coverage](https://bloxtel.com/solutions_coverage.html)
+- [SIM Swap Protection](https://bloxtel.com/solutions_simswap.html)
+- [Predictive Maintenance](https://bloxtel.com/solutions_predictive.html)
+- [Neutral Hosting](https://bloxtel.com/solutions_neutralhost.html)
+- [Peer Node](https://bloxtel.com/solutions_peernode.html)
+- [Analytics](https://bloxtel.com/solutions_analytics.html)

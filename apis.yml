@@ -1,7 +1,16 @@
 aid: bloxtel-inc
 name: Bloxtel, Inc.
-description: Bloxtel, Inc. is a company surfaced as a portfolio company of 500-global and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Bloxtel, Inc. builds a decentralized private 5G platform that lets enterprises
+  deploy standalone 5G networks in hours. Its all-in-one 5G Access Point runs
+  Open6GC, Bloxtel's decentralized network core, and pairs with tokenized dSIM
+  electronic-SIM technology and a Web3 Operator dApp for configuring networks,
+  managing dSIM subscriptions, and AI-powered predictive maintenance. Solutions
+  span indoor coverage, SIM-swap protection, neutral hosting, peer nodes, and
+  network analytics, targeting lower latency, reduced threat surface, and lower
+  cost versus traditional carrier deployments. Backed by 500 Global. As of this
+  profile Bloxtel publishes a marketing and lead-generation site only, with no
+  public developer portal, API reference, OpenAPI, or SDK yet available.
 url: https://raw.githubusercontent.com/api-evangelist/bloxtel-inc/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +18,33 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://bloxtel.com/assets/img/bloxtel_logo_white.png
 tags:
 - Company
+- 5G
+- Private 5G
+- Telecommunications
+- Networking
+- dSIM
+- eSIM
+- Web3
+- Infrastructure
+- IoT
+- Wireless
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +54,20 @@ maintainers:
 common:
 - type: Website
   url: https://bloxtel.com
+- type: GettingStarted
+  url: https://bloxtel.com/getstarted.html
+- type: Support
+  url: https://bloxtel.com/support.html
+- type: Pricing
+  url: https://bloxtel.com/#pricing
+- type: PrivacyPolicy
+  url: https://bloxtel.com/privacy.html
+- type: DomainSecurity
+  url: security/bloxtel-inc-domain-security.yml
+- type: LLMsTxt
+  url: llms/bloxtel-inc-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
